@@ -1,6 +1,7 @@
 # cph-1st-w37
 Exercises for CPHBusiness self study tasks, 1st semester, java, week 37
 
+Martin Lauenborg cph-ml667
 
 Velkommen til den første torsdag med exercises. 
 
